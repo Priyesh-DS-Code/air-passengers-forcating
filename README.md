@@ -8,10 +8,10 @@ A time series forecasting service that predicts monthly international airline pa
 
 ---
 
-## 📸 Application Preview 
+## Application Preview 
 
 <p align="center">
-  ![FlyForecast Streamlit App](Screenshot AirForcast app.png)
+  <img src="Screenshot AirForcast app.png" width="70%" />
 </p>
 
 ## Overview
