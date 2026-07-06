@@ -8,6 +8,12 @@ A time series forecasting service that predicts monthly international airline pa
 
 ---
 
+## 📸 Application Preview 
+
+<p align="center">
+  ![FlyForecast Streamlit App](Screenshot AirForcast app.png)
+</p>
+
 ## Overview
 
 FlyForecast forecasts future monthly airline passenger counts on the classic Box-Jenkins Airline Passengers dataset (1949-1960). It walks the full time series modeling lifecycle - stationarity diagnosis, transformation testing, ACF/PACF-driven order selection, baseline vs. seasonal model comparison - and ships the winning model behind a simple web UI for interactive forecasting.
